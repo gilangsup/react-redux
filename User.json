@@ -1,0 +1,23 @@
+{
+  "posts":
+      [
+        {
+          "Id": "1",
+          "Nama": "Gilang Suprobo",
+          "Alamat": "Karya Utama",
+          "NoHP": "085219846220"
+        },
+        {
+          "Id": "2",
+          "Nama": "Gilang Ramadhan",
+          "Alamat": "Karya Dua",
+          "NoHP": "085219846330"
+        },
+        {
+          "Id": "3",
+          "Nama": "Gilang Dirga",
+          "Alamat": "Karya Tiga",
+          "NoHP": "085219846440"
+        }
+      ]
+}
